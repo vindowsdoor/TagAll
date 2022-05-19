@@ -13,3 +13,8 @@ from AnkiVector.modules.helper_funcs.extraction import extract_user_and_text
 
 
 @run_async
+@bot_admin _
+@user_admin _
+@ ввод_действия
+def  addtag ​​( обновление , контекст ):
+чат  =  обновление . эффективный_чат
